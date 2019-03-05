@@ -1,2 +1,2 @@
 # androidgame
-[description]demo.gif
+[game](demo.gif)
