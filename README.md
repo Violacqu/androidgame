@@ -1,2 +1,2 @@
 # androidgame
-[game](demo.gif)
+![game](demo.gif)
